@@ -1,5 +1,7 @@
 # Gailbot Documentation
 
+Tufts University (c) 2018 - 2020
+
 ## About
 
 Gailbot is an automated transcription software named after [Gail Jefferson](https://en.wikipedia.org/wiki/Gail_Jefferson), inventor of the transcription system used for [Conversation Analysis](https://en.wikipedia.org/wiki/Conversation_analysis).
