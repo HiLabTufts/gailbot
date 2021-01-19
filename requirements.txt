@@ -163,7 +163,6 @@ SoundFile==0.10.2
 statsmodels==0.10.0
 tensorboard==1.15.0
 tensorflow==1.15.2
-tensorflow-estimator==1.15.0
 termcolor==1.1.0
 Twisted==19.7.0
 txaio==18.8.1
